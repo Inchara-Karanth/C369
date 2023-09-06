@@ -5,3 +5,4 @@
 - feature 1
 - feature 2
 - feature 3
+&copy Wiley 2023
